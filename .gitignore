@@ -1,0 +1,135 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+.DS_Store
+dist
+dist-ssr
+coverage
+*.local
+
+/cypress/videos/
+/cypress/screenshots/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+*.tsbuildinfo
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+.DS_Store
+dist
+dist-ssr
+coverage
+*.local
+
+/cypress/videos/
+/cypress/screenshots/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+*.tsbuildinfo
+
+# Node.js dependencies
+/node_modules/
+
+# Итоги сборки
+/dist/
+/build/
+/out/
+/.vite/
+
+# Файлы окружения (секретные ключи и настройки)
+.env
+.env.*.local
+!.env.example       # (оставить пример в репозитории)
+
+# Логи
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+yarn-error.log*
+error.log
+
+# Служебные файлы процесса
+pids
+*.pid
+*.pid.lock
+
+# Отчёты о покрытии и тестовые артефакты
+/coverage/
+/nyc_output/
+/.nyc_output/
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*~ 
+.history/
+
+# ОС‑специфичные
+.DS_Store
+Thumbs.db
+
+# Кэш сборщиков и пакетов
+/.cache/
+/.cache-loader/
+/.embroider-cache/
+/.pnp/
+/.pnp.js
+
+# Mac App Store
+.AppleDouble
+.LSOverride
+
+# Эмулятор iOS
+*.log
+
+# Типографические временные
+*.swp
+*.swo
+
+# Typescript
+*.tsbuildinfo
+
+# Отладочные дампы
+*.tgz
+
+# локальные настройки npm
+/.npmrc
+
